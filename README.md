@@ -1,2 +1,6 @@
 # OringoSupporter
-Oringo Supporter Cracked
+Features
+
+- Macros (Foraging, Netherwart, etc)
+- Terminal Solver
+- QOL Features
